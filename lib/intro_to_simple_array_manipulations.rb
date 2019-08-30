@@ -15,5 +15,5 @@ def pop_with_args (array)
 end
 
 def using_concat (array, array_2)
-  array.concat
+  array.concat(array_2)
 end
